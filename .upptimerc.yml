@@ -7,12 +7,6 @@ sites:
     url: https://mangobeds.com
   - name: Booking forms
     url: https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
     port: 80
