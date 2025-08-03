@@ -9,6 +9,8 @@ sites:
     url: https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7
   - name: API
     url: https://api.mangobeds.com/health-check
+  - name: Server (MQ)
+    url: $SERVER_HEALTH_CHECK_URL
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
