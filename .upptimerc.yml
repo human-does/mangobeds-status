@@ -17,6 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   theme: light
+  favicon: https://www.mangobeds.com/favicon.ico
   baseUrl: /mangobeds-status
   logoUrl: https://www.mangobeds.com/images/logo.png
   name: Status
