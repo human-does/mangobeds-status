@@ -30,8 +30,9 @@ status-website:
       
 assignees:
   - reymon359
+
 i18n:
-  footer: [Mangobeds](https://mangobeds.com)
+  footer: "[Mangobeds](https://mangobeds.com)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
