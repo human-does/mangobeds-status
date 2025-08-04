@@ -19,14 +19,14 @@ status-website:
   theme: light
   baseUrl: /mangobeds-status
   logoUrl: https://www.mangobeds.com/images/logo.png
-  name: Mangobeds Status
-  introTitle: "**Mangobeds**. Hospitality Tools That Pay for Themselves."
-  introMessage: This is a status page which uses **real-time** data. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: Dashboard
-      href: https://mangobeds.com
+  name: Status
+  introTitle: Hospitality Tools That Pay for Themselves.
+  introMessage: This is Mangobeds status page which uses **real-time** data.
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: Dashboard
+  #     href: https://mangobeds.com
       
 assignees:
   - reymon359
