@@ -15,14 +15,16 @@
     "timeWeek": 559,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-24": 0
+    }
   },
   {
     "name": "Booking forms",
     "url": "https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-forms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1559,
     "timeMonth": 1288,
     "timeYear": 1288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-24": 0
+    }
   },
   {
     "name": "API",
