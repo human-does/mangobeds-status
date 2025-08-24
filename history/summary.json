@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mangobeds.com.ico",
     "slug": "web-application",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 629,
-    "timeWeek": 559,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "uptime": "99.97%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 598,
+    "timeDay": 965,
+    "timeWeek": 652,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-08-24": 0
+      "2025-08-24": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-forms",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1288,
-    "timeDay": 1114,
-    "timeWeek": 1559,
-    "timeMonth": 1288,
-    "timeYear": 1288,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1324,
+    "timeDay": 1823,
+    "timeWeek": 1681,
+    "timeMonth": 1324,
+    "timeYear": 1324,
     "dailyMinutesDown": {
-      "2025-08-24": 0
+      "2025-08-24": 8
     }
   },
   {
