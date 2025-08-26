@@ -4,9 +4,9 @@
     "url": "https://mangobeds.com",
     "icon": "https://icons.duckduckgo.com/ip3/mangobeds.com.ico",
     "slug": "web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 668,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "Booking forms",
     "url": "https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-forms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1353,
     "timeMonth": 1301,
     "timeYear": 1301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "API",
