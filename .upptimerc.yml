@@ -4,8 +4,12 @@ repo: mangobeds-status
 
 sites:
   - name: Web application
+    maxAttempts: 3
+    retryDelay: 5
     url: https://mangobeds.com
   - name: Booking forms
+    maxAttempts: 3
+    retryDelay: 5
     url: https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7
   - name: API
     url: https://api.mangobeds.com/health-check
