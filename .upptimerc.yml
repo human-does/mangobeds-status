@@ -3,7 +3,6 @@ owner: human-does
 repo: mangobeds-status
 
 sites:
-sites:
   - name: Booking Form Health
     url: https://www.mangobeds.com/api/health/booking-forms
   - name: Main Website Health
