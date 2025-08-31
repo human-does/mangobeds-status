@@ -18,8 +18,10 @@ sites:
     url: $SERVER_HEALTH_CHECK_URL
 
 workflowSchedule:
-  uptime: "*/5 * * * *"
+  uptime: "*/10 * * * *"
 
+status-website:
+  cname: status.mangobeds.com
 
 
 status-website:
