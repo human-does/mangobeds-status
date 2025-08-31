@@ -29,8 +29,8 @@ status-website:
   #   - title: Dashboard
   #     href: https://mangobeds.com
       
-assignees:
-  - reymon359
+# assignees:
+#  - mangobeds
 
 i18n:
   footer: "[Mangobeds](https://mangobeds.com)"
