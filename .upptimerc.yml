@@ -18,19 +18,18 @@ sites:
     url: $SERVER_HEALTH_CHECK_URL
 
 workflowSchedule:
-  uptime: "*/10 * * * *"
-
-status-website:
-  cname: status.mangobeds.com
-
+  uptime: "*/10 * * * *"  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+
+  cname: status.mangobeds.com
   theme: light
   favicon: https://www.mangobeds.com/favicon.ico
-  baseUrl: /mangobeds-status
+  # baseUrl: /mangobeds-status
+  baseUrl: /
   logoUrl: https://www.mangobeds.com/images/logo.png
   name: Status
   introTitle: Hospitality Tools That Pay for Themselves.
