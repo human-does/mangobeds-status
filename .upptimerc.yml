@@ -34,14 +34,12 @@ status-website:
   name: Status
   introTitle: Hospitality Tools That Pay for Themselves.
   introMessage: This is Mangobeds status page which uses **real-time** data.
-  js: |
-    window.addEventListener('DOMContentLoaded', () => {
-      const pastIncidents = Array.from(document.querySelectorAll('h2'))
-        .find(el => el.textContent.includes('Past Incidents'));
-      if (pastIncidents) {
-        pastIncidents.parentElement.style.display = 'none';
-      }
-    });
+  css: |
+    /* Hide the entire Past Incidents section: any section that contains an incident link */
+    section:has(a[href*="/incident/"]) { display: none !important; }
+
+    /* Also hide the History link in the navbar (if present) */
+    nav a[href*="/history"] { display: none !important; }
   # navbar:
   #   - title: Status
   #     href: /
