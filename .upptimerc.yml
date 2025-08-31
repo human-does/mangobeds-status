@@ -3,10 +3,16 @@ owner: human-does
 repo: mangobeds-status
 
 sites:
-  - name: Web application
-    url: https://mangobeds.com
-  - name: Booking forms
-    url: https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7
+sites:
+  - name: Booking Form Health
+    url: https://www.mangobeds.com/api/health/booking-forms
+  - name: Main Website Health
+    url: https://www.mangobeds.com/api/health/main    
+    
+  #   - name: Web application
+  #     url: https://mangobeds.com
+  #   - name: Booking forms
+  #     url: https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7
   - name: API
     url: https://api.mangobeds.com/health-check
   - name: Server (MQ)
