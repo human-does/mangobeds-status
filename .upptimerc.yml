@@ -6,10 +6,13 @@ sites:
   - name: Booking Form Health
     url: https://www.mangobeds.com/api/health/booking-forms
     delay: 5000 
+    type: globalping
+    location: europe
   - name: Main Website Health
     url: https://www.mangobeds.com/api/health/main    
     delay: 5000 
-    
+    type: globalping
+    location: europe   
     
   #   - name: Web application
   #     url: https://mangobeds.com
