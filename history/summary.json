@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-form-health",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
-    "time": 1850,
-    "timeDay": 1679,
-    "timeWeek": 1850,
-    "timeMonth": 1850,
-    "timeYear": 1850,
-    "dailyMinutesDown": {
-      "2025-09-01": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1776,
+    "timeDay": 1572,
+    "timeWeek": 1776,
+    "timeMonth": 1776,
+    "timeYear": 1776,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Main Website Health",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "main-website-health",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 343,
-    "timeDay": 330,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
-    "dailyMinutesDown": {
-      "2025-09-01": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 330,
+    "timeDay": 307,
+    "timeWeek": 330,
+    "timeMonth": 330,
+    "timeYear": 330,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 286,
-    "timeWeek": 290,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 295,
+    "timeDay": 268,
+    "timeWeek": 287,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 215,
-    "timeWeek": 527,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 316,
+    "timeDay": 184,
+    "timeWeek": 505,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   }
 ]
