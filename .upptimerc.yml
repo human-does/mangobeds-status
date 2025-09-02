@@ -20,8 +20,10 @@ sites:
   #     url: https://www.mangobeds.com/booking-forms/cmapiq1pe0001axse16wpwxp7
   - name: API
     url: https://api.mangobeds.com/health-check
-  - name: Server (MQ)
-    url: $SERVER_HEALTH_CHECK_URL
+  - name: Server
+    url: $SERVER_URL/health-check
+  - name: Job Manager
+    url: $SERVER_URL/queues/health
 
 workflowSchedule:
   uptime: "*/10 * * * *"  
