@@ -26,9 +26,8 @@ sites:
     url: $SERVER_URL/queues/health
   - name: Database
     url: $DATABASE_URL
-    type: tcp-ping
-    delay: 10000
-    location: europe
+    check: tcp-ping
+
 
 
 workflowSchedule:
