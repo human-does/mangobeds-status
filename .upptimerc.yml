@@ -24,6 +24,12 @@ sites:
     url: $SERVER_URL/health-check
   - name: Job Manager
     url: $SERVER_URL/queues/health
+  - name: Database
+    url: $DATABASE_URL
+    type: tcp-ping
+    delay: 10000
+    location: europe
+
 
 workflowSchedule:
   uptime: "*/10 * * * *"  
