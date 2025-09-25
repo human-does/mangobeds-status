@@ -26,6 +26,7 @@ sites:
     url: $SERVER_URL/queues/health
   - name: Database
     url: $DATABASE_URL
+    port: 5432
     check: tcp-ping
 
 
