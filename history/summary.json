@@ -22,19 +22,19 @@
     "url": "https://www.mangobeds.com/api/health/main",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "main-website-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 348,
-    "timeDay": 449,
-    "timeWeek": 371,
-    "timeMonth": 348,
-    "timeYear": 348,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 355,
+    "timeDay": 539,
+    "timeWeek": 400,
+    "timeMonth": 355,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2025-09-30": 0
+      "2025-09-30": 33
     }
   },
   {
