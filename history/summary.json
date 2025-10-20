@@ -4,19 +4,19 @@
     "url": "https://www.mangobeds.com/api/health/booking-forms",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-form-health",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 1632,
-    "timeDay": 1884,
-    "timeWeek": 1867,
-    "timeMonth": 1843,
-    "timeYear": 1632,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "93.60%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.87%",
+    "time": 1633,
+    "timeDay": 1844,
+    "timeWeek": 1850,
+    "timeMonth": 1839,
+    "timeYear": 1633,
     "dailyMinutesDown": {
-      "2025-10-20": 20
+      "2025-10-20": 92
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
-    "time": 416,
-    "timeDay": 1592,
-    "timeWeek": 758,
-    "timeMonth": 482,
-    "timeYear": 416,
+    "time": 415,
+    "timeDay": 1281,
+    "timeWeek": 717,
+    "timeMonth": 478,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-10-20": 20,
       "2025-09-30": 33
