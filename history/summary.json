@@ -4,9 +4,9 @@
     "url": "https://www.mangobeds.com/api/health/booking-forms",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-form-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 2052,
     "timeYear": 1785,
     "dailyMinutesDown": {
+      "2025-11-25": 0,
       "2025-10-20": 92
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://www.mangobeds.com/api/health/main",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "main-website-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
