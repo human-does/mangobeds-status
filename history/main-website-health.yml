@@ -1,7 +1,7 @@
 url: https://www.mangobeds.com/api/health/main
-status: down
-code: 500
-responseTime: 180
-lastUpdated: 2026-03-17T20:08:40.162Z
+status: up
+code: 200
+responseTime: 660
+lastUpdated: 2026-03-17T20:24:02.991Z
 startTime: 2025-08-31T10:27:18.768Z
 generator: Upptime <https://github.com/upptime/upptime>
