@@ -1,7 +1,7 @@
 url: https://www.mangobeds.com/api/health/booking-forms
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-04-25T20:03:28.940Z
+status: up
+code: 200
+responseTime: 2073
+lastUpdated: 2026-04-25T20:21:31.655Z
 startTime: 2025-08-31T10:27:16.634Z
 generator: Upptime <https://github.com/upptime/upptime>
