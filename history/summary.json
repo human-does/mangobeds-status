@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-form-health",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.03%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.17%",
     "time": 1149,
     "timeDay": 473,
     "timeWeek": 1025,
@@ -203,9 +203,9 @@
     "url": "$DATABASE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -214,6 +214,8 @@
     "timeWeek": 117,
     "timeMonth": 123,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-06": 0
+    }
   }
 ]
