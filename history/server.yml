@@ -1,7 +1,7 @@
 url: $SERVER_URL/health-check
 status: up
 code: 200
-responseTime: 4210
-lastUpdated: 2026-06-01T23:31:21.599Z
+responseTime: 346
+lastUpdated: 2026-06-02T23:33:53.777Z
 startTime: 2025-09-02T13:28:48.920Z
 generator: Upptime <https://github.com/upptime/upptime>
