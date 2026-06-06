@@ -78,11 +78,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "main-website-health",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 601,
     "timeDay": 515,
     "timeWeek": 560,
@@ -209,11 +209,11 @@
     "url": "$DATABASE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 121,
     "timeDay": 155,
@@ -223,7 +223,8 @@
     "dailyMinutesDown": {
       "2026-05-06": 45,
       "2026-06-02": 91,
-      "2026-06-05": 26
+      "2026-06-05": 26,
+      "2026-06-06": 2
     }
   }
 ]
