@@ -211,12 +211,12 @@
     "slug": "database",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "96.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.94%",
     "time": 121,
-    "timeDay": 114,
+    "timeDay": 91,
     "timeWeek": 127,
     "timeMonth": 114,
     "timeYear": 121,
@@ -226,6 +226,26 @@
       "2026-06-05": 26,
       "2026-06-06": 24,
       "2026-06-11": 50
+    }
+  },
+  {
+    "name": "Database Full Chain",
+    "url": "https://www.mangobeds.com/api/health/db",
+    "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
+    "slug": "database-full-chain",
+    "status": "up",
+    "uptime": "30.71%",
+    "uptimeDay": "30.71%",
+    "uptimeWeek": "30.71%",
+    "uptimeMonth": "30.71%",
+    "uptimeYear": "30.71%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-06-12": 1
     }
   }
 ]

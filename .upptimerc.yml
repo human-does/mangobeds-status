@@ -28,11 +28,16 @@ sites:
     url: $DATABASE_URL
     port: 5432
     check: tcp-ping
+  # Full-chain DB check: Vercel -> PgBouncer (Lightsail) -> Render Postgres via
+  # a real SELECT 1. The tcp-ping above only proves PgBouncer's listener is up;
+  # during the 2026-06-12 outage it stayed green while the chain behind it was down.
+  - name: Database Full Chain
+    url: https://www.mangobeds.com/api/health/db
 
 
 
 workflowSchedule:
-  uptime: "*/10 * * * *"  
+  uptime: "*/5 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -60,8 +65,8 @@ status-website:
   #   - title: Dashboard
   #     href: https://mangobeds.com
       
-# assignees:
-#  - mangobeds
+assignees:
+  - reymon359
 
 i18n:
   footer: "[Mangobeds](https://mangobeds.com)"
