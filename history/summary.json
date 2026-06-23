@@ -234,17 +234,19 @@
     "url": "https://www.mangobeds.com/api/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "database-full-chain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 802,
-    "timeDay": 725,
-    "timeWeek": 720,
-    "timeMonth": 802,
-    "timeYear": 802,
-    "dailyMinutesDown": {}
+    "time": 951,
+    "timeDay": 1801,
+    "timeWeek": 989,
+    "timeMonth": 951,
+    "timeYear": 951,
+    "dailyMinutesDown": {
+      "2026-06-23": 0
+    }
   }
 ]
