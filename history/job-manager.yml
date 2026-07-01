@@ -1,7 +1,7 @@
 url: $SERVER_URL/queues/health
 status: up
 code: 200
-responseTime: 246
-lastUpdated: 2026-06-30T23:28:01.589Z
+responseTime: 185
+lastUpdated: 2026-07-01T01:28:08.360Z
 startTime: 2025-09-02T13:28:49.418Z
 generator: Upptime <https://github.com/upptime/upptime>
