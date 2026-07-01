@@ -24,15 +24,16 @@ sites:
     url: $SERVER_URL/health-check
   - name: Job Manager
     url: $SERVER_URL/queues/health
-  - name: Database
-    url: $DATABASE_URL
-    port: 5432
-    check: tcp-ping
   # Full-chain DB check: Vercel -> PgBouncer (Lightsail) -> Render Postgres via
   # a real SELECT 1. The tcp-ping above only proves PgBouncer's listener is up;
   # during the 2026-06-12 outage it stayed green while the chain behind it was down.
   - name: Database Full Chain
     url: https://www.mangobeds.com/api/health/db
+  - name: Database
+    url: $DATABASE_URL
+    port: 5432
+    check: tcp-ping
+
 
 
 
