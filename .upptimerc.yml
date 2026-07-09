@@ -49,7 +49,10 @@ status-website:
   theme: light
   favicon: https://www.mangobeds.com/favicon.ico
   # baseUrl: /mangobeds-status
-  baseUrl: /
+  # Custom domain (cname) serves from the root, so baseUrl must be empty.
+  # Setting it to "/" made Upptime emit doubled slashes (//themes/light.css,
+  # //global.css) and a //error router base, redirecting the site to /error.
+  baseUrl: ""
   logoUrl: https://www.mangobeds.com/images/logo.png
   name: Status
   introTitle: Hospitality Tools That Pay for Themselves.
