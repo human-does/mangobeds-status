@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mangobeds.com.ico",
     "slug": "booking-form-health",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1022,
     "timeDay": 1702,
-    "timeWeek": 593,
-    "timeMonth": 506,
+    "timeWeek": 611,
+    "timeMonth": 513,
     "timeYear": 1022,
     "dailyMinutesDown": {
       "2025-10-20": 92,
@@ -86,8 +86,8 @@
     "uptimeYear": "99.63%",
     "time": 588,
     "timeDay": 429,
-    "timeWeek": 477,
-    "timeMonth": 470,
+    "timeWeek": 458,
+    "timeMonth": 472,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2025-09-30": 33,
@@ -158,9 +158,9 @@
     "uptimeYear": "99.99%",
     "time": 675,
     "timeDay": 4766,
-    "timeWeek": 920,
-    "timeMonth": 1083,
-    "timeYear": 684,
+    "timeWeek": 1022,
+    "timeMonth": 1108,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2026-05-21": 47
     }
@@ -178,8 +178,8 @@
     "uptimeYear": "100.00%",
     "time": 877,
     "timeDay": 174,
-    "timeWeek": 200,
-    "timeMonth": 2062,
+    "timeWeek": 202,
+    "timeMonth": 2112,
     "timeYear": 877,
     "dailyMinutesDown": {}
   },
@@ -196,7 +196,7 @@
     "uptimeYear": "99.97%",
     "time": 166,
     "timeDay": 194,
-    "timeWeek": 164,
+    "timeWeek": 163,
     "timeMonth": 207,
     "timeYear": 166,
     "dailyMinutesDown": {
@@ -218,8 +218,8 @@
     "uptimeYear": "99.94%",
     "time": 958,
     "timeDay": 1272,
-    "timeWeek": 966,
-    "timeMonth": 937,
+    "timeWeek": 916,
+    "timeMonth": 940,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2026-06-23": 49
@@ -238,8 +238,8 @@
     "uptimeYear": "99.94%",
     "time": 121,
     "timeDay": 111,
-    "timeWeek": 108,
-    "timeMonth": 119,
+    "timeWeek": 103,
+    "timeMonth": 118,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2026-05-06": 45,
