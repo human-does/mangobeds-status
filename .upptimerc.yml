@@ -33,6 +33,12 @@ sites:
     url: $DATABASE_URL
     port: 5432
     check: tcp-ping
+  # The source the blog and docs pages read from. The URL is a repo secret so
+  # this public repo and the status page do not show it.
+  # Slower than 10 s counts as degraded and opens an issue.
+  - name: Docs
+    url: $DOCS_URL
+    maxResponseTime: 10000
 
 
 
