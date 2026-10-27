@@ -252,19 +252,19 @@
     "url": "$DOCS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "docs",
-    "status": "down",
-    "uptime": "24.07%",
-    "uptimeDay": "24.07%",
-    "uptimeWeek": "24.07%",
-    "uptimeMonth": "24.07%",
-    "uptimeYear": "24.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.78%",
+    "uptimeDay": "1.78%",
+    "uptimeWeek": "1.78%",
+    "uptimeMonth": "1.78%",
+    "uptimeYear": "1.78%",
+    "time": 1176,
+    "timeDay": 1176,
+    "timeWeek": 1176,
+    "timeMonth": 1176,
+    "timeYear": 1176,
     "dailyMinutesDown": {
-      "2026-10-27": 1
+      "2026-10-27": 29
     }
   }
 ]
